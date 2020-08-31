@@ -295,6 +295,6 @@ while (True):
 This week’s assignment was hard for me because I wasn’t sure where to input new code from this week and old code from last week. However, I was able to get the script to compile and Products added to the txt file. It will be nice to review other people’s code to see where I could make improvements.
 
 ## Sources
-Classes:
+Classes:  
 https://docs.python.org/3/tutorial/classes.html  
 https://www.oreilly.com/library/view/python-in-a/9781491913833/ch04.html
