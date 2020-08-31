@@ -285,7 +285,7 @@ while (True):
 ![Working in PyCharm 2](https://kbhunter5.github.io/ITFND100-Mod08/WorkingInPyCharm2.png "Working in PyCharm 2")
 ### Picture of code working in Working in PyCharm 2.
 
-![Products.txt Ouput file](https://kbhunter5.github.io/ITFND100-Mod08/OutPutfile.png "Command Prompt Pic")
+![Products.txt Ouput file](https://kbhunter5.github.io/ITFND100-Mod08/Outputfile.png "Outputfile")
 ### Picture of the Products.txt
 
 ![Command Prompt Pic](https://kbhunter5.github.io/ITFND100-Mod08/CommandPrompt.png "Command Prompt Pic")
