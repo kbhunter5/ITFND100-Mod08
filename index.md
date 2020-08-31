@@ -296,5 +296,5 @@ This week’s assignment was hard for me because I wasn’t sure where to input 
 
 ## Sources
 Classes:
-https://docs.python.org/3/tutorial/classes.html
+https://docs.python.org/3/tutorial/classes.html  
 https://www.oreilly.com/library/view/python-in-a/9781491913833/ch04.html
